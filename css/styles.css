@@ -9,10 +9,17 @@ body {
   background-repeat: no-repeat;
 }
 
-ul li {
+ul li{
   list-style: none;
   display: inline-block;
   float: right;
   margin: 50px;
   color: black;
+}
+ul li:hover{
+    background-color: blue;
+    font-size: 50px;
+    animation: ease-in;
+    opacity: 0.8;
+    animation-fill-mode: forwards;
 }
