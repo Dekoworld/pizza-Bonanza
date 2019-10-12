@@ -29,3 +29,12 @@ ul li:hover {
   margin-top: 200px;
   text-align: center;
 }
+.row-1 {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 280px 280px 280px 280px;
+  grid-gap: 50px;
+  padding: 10px;
+  align-content: center;
+  margin-left: 50px;
+}
