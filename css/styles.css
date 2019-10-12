@@ -20,6 +20,11 @@ ul li {
   margin: 50px;
   color: black;
 }
+.home-info{
+  align-content: center;
+  margin-left: 250px;
+  list-style: none;
+}
 .row-1 {
   display: grid;
   justify-content: center;
