@@ -38,3 +38,13 @@ ul li:hover {
   align-content: center;
   margin-left: 50px;
 }
+
+#address,
+#pizza-details-dropdown,
+#pizza-details,
+#default-pizza-dropdown,
+#default-pizza-details,
+#sides-dropdown,
+#sides-details {
+  display: none;
+}
